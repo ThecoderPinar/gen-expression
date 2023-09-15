@@ -1,6 +1,11 @@
 # Gene Expression Analysis Project
 
-![Gene Expression Analysis](project_image.png)
+
+
+
+
+https://github.com/ThecoderPinar/gen-expression/assets/107423523/55923acc-d613-457a-83c3-21cf8c31c40d
+
 
 Gene expression analysis is a crucial part of genomics research, offering valuable insights into the regulation of genes and their influence on various biological processes. This project focuses on exploring gene expression data to discover hidden patterns and relationships within complex datasets.
 
