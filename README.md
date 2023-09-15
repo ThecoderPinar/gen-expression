@@ -64,4 +64,4 @@ This project is open-source and is licensed under the MIT License. See the [LICE
 
 #DataScience #Genomics #PCA #DataAnalysis #Bioinformatics #MachineLearning #Python #DataVisualization #Kaggle #Biotechnology
 
-![GitHub Activity](https://img.shields.io/github/last-commit/yourusername/yourrepository)
+![GitHub Activity](https://img.shields.io/github/last-commit/ThecoderPinar/gen-expression)
